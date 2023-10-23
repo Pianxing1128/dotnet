@@ -5,7 +5,7 @@ using Persistence;
 
 namespace API.Controllers
 {
-     [ApiController]
+    [ApiController]
     [Route("[controller]")] 
     public class ActivitiesController : BaseApiController
     {
