@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HXkFTYVCXjzsHLEqII1JDtzuadZ2qCn8n0enQre7Rq2yYj7ES7xaClO9pDj5OsmhLceNGlaJgbKNnWNh0o3nhw==",
+  "dgSpecHash": "Xsq7aRtnS1it0gywPsAnBC2hOuqZjs024T4u2aNei/FaleCRhR+KwdiYDtgMrXui5dCrBP+d16lvFYk2DBoziQ==",
   "success": true,
   "projectFilePath": "D:\\DotNetProject\\reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\qc112\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\qc112\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
+    "C:\\Users\\qc112\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.12\\microsoft.data.sqlite.core.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
