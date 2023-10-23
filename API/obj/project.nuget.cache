@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zts0qWb0juAoyIdMmGQDn0+B4UQ1Ye0S23uWwn2sOyJanSI/Evte0gekZXlWkphNTTxcnccAc9ZuuB+qTPWDrA==",
+  "dgSpecHash": "HXkFTYVCXjzsHLEqII1JDtzuadZ2qCn8n0enQre7Rq2yYj7ES7xaClO9pDj5OsmhLceNGlaJgbKNnWNh0o3nhw==",
   "success": true,
   "projectFilePath": "D:\\DotNetProject\\reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qc112\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\qc112\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\qc112\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.12\\microsoft.data.sqlite.core.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",

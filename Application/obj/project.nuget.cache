@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xx9cooqRUYaUiDlmlp47x+IumgfdAxO5XUhUmLznljvo8TmBlgLpLUUtijhfOeUfDXjPMgLoUtWN2y73o/Ft+A==",
+  "dgSpecHash": "W5Zb/NKdlWtKeLx8TW3d6BV7/D3g+J6L9IgzJaO675IKrNSmWJ/vkqPwM8Wvf1zmct/b+6bevh4CH3nJjA8oIQ==",
   "success": true,
   "projectFilePath": "D:\\DotNetProject\\reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\qc112\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\qc112\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.12\\microsoft.data.sqlite.core.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\qc112\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
