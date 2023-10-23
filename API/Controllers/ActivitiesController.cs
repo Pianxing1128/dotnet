@@ -12,19 +12,19 @@ namespace API.Controllers
     public class ActivitiesController : BaseApiController
     {
        
-        [HttpGet]  //api/activities
+        [HttpGet]             // 获得List
         public async Task<ActionResult<List<Activity>>> GetActivities(){
             
             return await Mediator.Send(new List.Query());
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{id}")]     // 根据id查询
         public async Task<ActionResult<Activity>> GetActivity(Guid id)
         {
             return await Mediator.Send(new Details.Query{Id = id});
         }
 
-        [HttpPost]
+        [HttpPost]            // 添加
 
         public async Task<IActionResult> CreateActivity(Activity activity)
         {
@@ -32,6 +32,13 @@ namespace API.Controllers
             return Ok();
         }
 
-
+        [HttpPut("{id}")]     // 编辑
+        
+        public async Task<IActionResult> EditActivity(Guid id, Activity activity)
+        {
+            activity.Id = id;
+            await Mediator.Send(new Edit.Command { Activity = activity });
+            return Ok();
+        }
     }
 }
